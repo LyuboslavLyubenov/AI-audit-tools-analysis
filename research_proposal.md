@@ -30,7 +30,18 @@ To conduct an independent, unbiased evaluation of AI-powered smart contract audi
 **Baseline Truth**: Public audit reports for each contract, assuming reported vulnerabilities represent the complete set of issues.
 
 ### AI Tools Under Evaluation
-[Tools will be disclosed in final results with full transparency]
+- Hound 
+- LISA 
+- SavantChat
+- Pentest gpt
+- QuillAI_Network
+- AuditAgent
+- Octane security
+- Bug hunter live
+- Solidity scan
+- GPTLens
+- Savant.chat
+- BugHunter.live
 
 ### Evaluation Framework
 
@@ -58,7 +69,7 @@ To conduct an independent, unbiased evaluation of AI-powered smart contract audi
 - Evaluators cannot have authored or previously audited the test contracts
 - Full disclosure of any potential conflicts before participation
 
-**Compensation**: $30-50 per contract evaluation (research/academic rates)
+**Compensation**: $20-40 per project
 
 ## Process Design
 

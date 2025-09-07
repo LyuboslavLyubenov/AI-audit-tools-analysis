@@ -69,7 +69,7 @@ To conduct an independent, unbiased evaluation of AI-powered smart contract audi
 - Evaluators cannot have authored or previously audited the test contracts
 - Full disclosure of any potential conflicts before participation
 
-**Compensation**: $20-40 per project
+**Compensation**: $20-30 per project ($180-$270 per evaluator)
 
 ## Process Design
 
